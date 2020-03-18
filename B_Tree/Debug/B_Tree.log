@@ -1,0 +1,4 @@
+﻿  B_Tree.c
+D:\code\B_Tree\B_Tree\B_Tree.c(145,1): warning C4028: 形参 2 与声明不同
+D:\code\B_Tree\B_Tree\B_Tree.c(163): warning C4715: “Copy”: 不是所有的控件路径都返回值
+  B_Tree.vcxproj -> D:\code\B_Tree\Debug\B_Tree.exe
